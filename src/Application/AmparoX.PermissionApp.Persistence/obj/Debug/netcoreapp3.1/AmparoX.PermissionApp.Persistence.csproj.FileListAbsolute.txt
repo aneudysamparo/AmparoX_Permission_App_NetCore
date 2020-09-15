@@ -1,0 +1,15 @@
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Persistence\bin\Debug\netcoreapp3.1\AmparoX.PermissionApp.Persistence.deps.json
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Persistence\bin\Debug\netcoreapp3.1\AmparoX.PermissionApp.Persistence.runtimeconfig.json
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Persistence\bin\Debug\netcoreapp3.1\AmparoX.PermissionApp.Persistence.runtimeconfig.dev.json
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Persistence\bin\Debug\netcoreapp3.1\AmparoX.PermissionApp.Persistence.dll
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Persistence\bin\Debug\netcoreapp3.1\AmparoX.PermissionApp.Persistence.pdb
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Persistence\bin\Debug\netcoreapp3.1\AmparoX.PermissionApp.Domain.dll
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Persistence\bin\Debug\netcoreapp3.1\AmparoX.PermissionApp.Domain.pdb
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Persistence\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Persistence.csprojAssemblyReference.cache
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Persistence\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Persistence.AssemblyInfoInputs.cache
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Persistence\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Persistence.AssemblyInfo.cs
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Persistence\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Persistence\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Persistence.csproj.CopyComplete
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Persistence\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Persistence.dll
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Persistence\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Persistence.pdb
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Persistence\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Persistence.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Domain\bin\Debug\netcoreapp3.1\AmparoX.PermissionApp.Domain.deps.json
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Domain\bin\Debug\netcoreapp3.1\AmparoX.PermissionApp.Domain.dll
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Domain\bin\Debug\netcoreapp3.1\AmparoX.PermissionApp.Domain.pdb
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Domain\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Domain.AssemblyInfoInputs.cache
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Domain\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Domain.AssemblyInfo.cs
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Domain\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Domain\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Domain.dll
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Domain\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Domain.pdb

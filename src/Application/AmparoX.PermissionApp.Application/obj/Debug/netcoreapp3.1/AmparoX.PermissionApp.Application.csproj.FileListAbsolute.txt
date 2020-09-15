@@ -1,0 +1,12 @@
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Application\bin\Debug\netcoreapp3.1\AmparoX.PermissionApp.Application.deps.json
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Application\bin\Debug\netcoreapp3.1\AmparoX.PermissionApp.Application.dll
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Application\bin\Debug\netcoreapp3.1\AmparoX.PermissionApp.Application.pdb
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Application\bin\Debug\netcoreapp3.1\AmparoX.PermissionApp.Domain.dll
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Application\bin\Debug\netcoreapp3.1\AmparoX.PermissionApp.Domain.pdb
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Application\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Application.csprojAssemblyReference.cache
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Application\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Application.AssemblyInfoInputs.cache
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Application\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Application.AssemblyInfo.cs
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Application\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Application.csproj.CoreCompileInputs.cache
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Application\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Application.csproj.CopyComplete
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Application\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Application.dll
+C:\Dev\PermissionApp\src\Application\AmparoX.PermissionApp.Application\obj\Debug\netcoreapp3.1\AmparoX.PermissionApp.Application.pdb
