@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AmparoX.PermissionApp.Persistence.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20200915131426_InitialMigration2")]
+    [Migration("20200915202929_InitialMigration2")]
     partial class InitialMigration2
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -60,6 +60,28 @@ namespace AmparoX.PermissionApp.Persistence.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("PermissionTypes");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Description = "School"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Description = "Sickness"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Description = "Vacation"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Description = "Other"
+                        });
                 });
 
             modelBuilder.Entity("AmparoX.PermissionApp.Domain.Entities.Permission", b =>

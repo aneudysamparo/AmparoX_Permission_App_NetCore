@@ -58,6 +58,28 @@ namespace AmparoX.PermissionApp.Persistence.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("PermissionTypes");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Description = "School"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Description = "Sickness"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Description = "Vacation"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Description = "Other"
+                        });
                 });
 
             modelBuilder.Entity("AmparoX.PermissionApp.Domain.Entities.Permission", b =>

@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AmparoX.PermissionApp.Persistence.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20200915142702_InitialMigration2s2")]
-    partial class InitialMigration2s2
+    [Migration("20200915201512_InitialMigration")]
+    partial class InitialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
